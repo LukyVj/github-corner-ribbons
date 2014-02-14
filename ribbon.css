@@ -6,6 +6,7 @@
 
 .github--ribbon {
   position: fixed;
+  z-index: 999999999999;
   width: 10em;
   height: 10em;
   background: #bdc3c7;
