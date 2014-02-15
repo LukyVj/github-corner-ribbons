@@ -8,6 +8,7 @@
   position: fixed;
   width: 10em;
   height: 10em;
+  z-index:999999999;
   background: #bdc3c7;
   -webkit-transform: rotate(-45deg) translateY(-5em) translateX(-5em) scale(1);
   -moz-transform: rotate(-45deg) translateY(-5em) translateX(-5em) scale(1);
